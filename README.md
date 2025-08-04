@@ -1,8 +1,9 @@
 Projeto , Inicializado com [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Primeiros Passos
-
+# Atenção !!
 > **Nota**: Tenha certeza de ter configurado a [variavel de ambiente](https://reactnative.dev/docs/set-up-your-environment).
+
+# Explicação 
 
 Este projeto se base no meu estudo inicial de Programação mobile usando conceitos basicos do react native aonde usa tecnicas como
 
